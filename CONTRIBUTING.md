@@ -1,6 +1,6 @@
-# Contribuindo para True Black Blue
+# Contribuindo para Black Blue
 
-Agradecemos o seu interesse em contribuir para o True Black Blue! Este documento fornece algumas diretrizes que esperamos que tornem o processo mais fácil para você.
+Agradecemos o seu interesse em contribuir para o Black Blue! Este documento fornece algumas diretrizes que esperamos que tornem o processo mais fácil para você.
 
 ## Problemas
 
@@ -30,4 +30,4 @@ Nós faremos o nosso melhor para revisar pull requests prontamente.
 
 Por favor, lembre-se de seguir o nosso código de conduta ao contribuir para este projeto. Respeito mútuo é fundamental para manter uma comunidade saudável e inclusiva.
 
-Obrigado novamente pelo seu interesse em contribuir para o True Black Blue!
+Obrigado novamente pelo seu interesse em contribuir para o Black Blue!
