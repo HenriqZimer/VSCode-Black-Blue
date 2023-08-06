@@ -1,6 +1,6 @@
 {
   "name": "blackblue",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Black Blue é uma extensão de tema para Visual Studio Code meticulosamente projetada para quem adora a combinação de preto puro e azul.",
   "displayName": "Black Blue",
   "icon": "assets/blackblue.jpg",
@@ -8,7 +8,7 @@
   "publisher": "HenriqueZimermann",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HenriqZimer/Black-Blue.git"
+    "url": "https://github.com/HenriqZimer/VSCode-Black-Blue.git"
   },
   "engines": {
     "vscode": "^1.63.0"
