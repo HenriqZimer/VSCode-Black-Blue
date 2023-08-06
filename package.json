@@ -1,0 +1,34 @@
+{
+  "name": "trueblackblue",
+  "version": "1.0.7",
+  "description": "True Black Blue é uma extensão de tema para Visual Studio Code meticulosamente projetada para quem adora a combinação de preto puro e azul.",
+  "displayName": "True Black Blue",
+  "icon": "assets/trueblackblue.jpg",
+  "keywords": ["HenriqueZimermann"],
+  "publisher": "HenriqueZimermann",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HenriqZimer/True-Black-Blue.git"
+  },
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "True Black Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/trueblackblue-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "vsce publish"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  }
+}
