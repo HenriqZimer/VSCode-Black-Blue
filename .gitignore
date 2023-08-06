@@ -1,4 +1,6 @@
 ### TBB ###
-.vsix
-.vscode/
-/node_modules
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar todos os arquivos .vsix
+*.vsix
